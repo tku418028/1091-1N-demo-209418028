@@ -8,3 +8,9 @@ body {
   background-color: bisque;
   font-size: 16px;
 }
+
+#container li {
+  list-style-type: none;
+  padding: 0px 5px 10px 5px;
+  font-size: 0.9 rem;
+}
